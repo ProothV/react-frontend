@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* Navigation Section */
+
+.home  {
+  background-size: cover;
+  background-position: center;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
 }
+.container {
+  width: 60%;
+  /* max-width: 150px; */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* navigation */
